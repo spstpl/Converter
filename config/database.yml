@@ -15,6 +15,6 @@ development:
   database: development_database
   adapter: postgresql
   encoding: unicode
-  username: hamperville
-  password: hamperville
+  username: username
+  password: password
   host: localhost
