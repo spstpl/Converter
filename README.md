@@ -17,6 +17,7 @@ How to run :
 
     > bundle
 
+  - Install Postgresql and set User and Password in config/database.yml
 
   - Create Database, run all migrations and seed using following commands
 
