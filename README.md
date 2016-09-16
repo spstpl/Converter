@@ -4,8 +4,6 @@ For now it can only fetches HTML for single URL at a time.
 
 How to run :
 
-  - Repository Link - https://github.com/spstpl/Converter
-
   - Clone git repository using https://github.com/spstpl/Converter.git
 
   - Install Ruby 2.2.1
